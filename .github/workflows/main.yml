@@ -36,5 +36,5 @@ jobs:
 
     - name: Start application with timeout
       run: |
-        timeout 14520s npm start
+        timeout 3600s npm start
         
